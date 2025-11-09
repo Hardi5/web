@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="56" viewBox="0 0 140 56" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Harding Consulting</title>
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5b9bd5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a8bc2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- H letter -->
+  <rect x="4" y="8" width="8" height="40" rx="1.5" fill="url(#logoGradient)"/>
+  <rect x="24" y="8" width="8" height="40" rx="1.5" fill="url(#logoGradient)"/>
+  <rect x="12" y="24" width="12" height="8" rx="1" fill="url(#logoGradient)"/>
+  
+  <!-- C letter -->
+  <path d="M 50 8 Q 70 8, 78 16 Q 86 24, 86 28 L 78 28 Q 76 22, 70 18 Q 64 14, 56 14 Q 48 14, 44 20 Q 40 26, 40 28 Q 40 30, 44 36 Q 48 42, 56 42 Q 64 42, 70 38 Q 76 34, 78 28 L 86 28 Q 86 32, 78 40 Q 70 48, 50 48 Q 42 48, 42 40 L 42 16 Q 42 8, 50 8 Z" fill="url(#logoGradient)"/>
+  
+  <!-- Accent dot -->
+  <circle cx="92" cy="44" r="3" fill="#5b9bd5" opacity="0.6"/>
+</svg>
